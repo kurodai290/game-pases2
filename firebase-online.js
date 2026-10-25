@@ -22,13 +22,13 @@ import {
 
 // Firebase Console の「プロジェクトの設定」から入力
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  databaseURL: "YOUR_DATABASE_URL",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.firebasestorage.app",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCdrTIwV6f7dPfoAOnruOZ_4VU4OrfWpDw",
+  authDomain: "game-pases2.firebaseapp.com",
+  projectId: "game-pases2",
+  storageBucket: "game-pases2.firebasestorage.app",
+  messagingSenderId: "696288653181",
+  appId: "1:696288653181:web:5ff2df285498c4d10f6614",
+  measurementId: "G-1W7C86E9F3"
 };
 
 const app = initializeApp(firebaseConfig);
